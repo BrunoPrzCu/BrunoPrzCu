@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno Pérez Cuervo</h1>
 <h3 align="center">I'm a 🇪🇸 spanish Software Engineer student at University Of Oviedo</h3>
 
-- 🔭 I’m currently working on a class project [WIChat](https://github.com/Arquisoft/wichat_es4c)
+- 👤 You can check out my University account @UO295445
+
+- 🔭 My most recent class project [WIChat](https://github.com/Arquisoft/wichat_es4c)
 
 - 🌱 I’m currently learning **React, Node, Spring, C#, Java**
 
