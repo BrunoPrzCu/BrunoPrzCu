@@ -3,22 +3,22 @@
 
 - 👤 You can check out my University account [@UO295445](https://github.com/UO295445)
 
-- 🔭 My most recent public class project [WIChat](https://github.com/Arquisoft/wichat_es4c)
+- 🔭 My most recent class project [WIChat](https://github.com/Arquisoft/wichat_es4c)
 
-- 🌱 I’m currently learning **Node, Spring, C#, Java and programming languages design**
+- 🌱 I’m currently learning **Node, Spring, C#, Java and programming language design**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **witherbs57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
   <a href="https://instagram.com/bruno_p13" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruno_p13" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/bruno-perez-cuervo-3aa2a137b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -31,8 +31,10 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/BrunoPrzCu/BrunoPrzCu/output/snake.svg" alt="Snake animation" />
-</p>
+</div>
